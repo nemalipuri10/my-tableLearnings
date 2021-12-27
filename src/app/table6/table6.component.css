@@ -1,0 +1,7 @@
+.tableContent,.stuAttributes,.stuDetails{
+    border:1px solid greenyellow;
+    border-radius: 3px;
+}
+.stuAttributes{
+    text-align: center;
+}

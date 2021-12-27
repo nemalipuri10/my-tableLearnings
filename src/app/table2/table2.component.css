@@ -1,0 +1,25 @@
+.studentAttributes{
+    font-weight: bold;
+    color:red;
+    font-size: 20px;
+}
+.studentAttributes,.studentNos{
+    background-color: #FFA500;
+
+}
+.studentAttributes,.studentNos,.studentData{
+    padding:10px;
+    text-align: center;
+    border:1px solid #499549;
+}
+.studentData{
+    background: tomato;
+    font-weight: bold;
+    color:blue;
+}
+.studentNos{
+    color:white;
+}
+.tableContent{
+    border:1px solid blue;
+}

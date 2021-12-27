@@ -1,0 +1,21 @@
+.tableContent,.headings,.totalHeading,.tableData,.price{
+    border:1px solid blueviolet;
+}
+.headings,.totalHeading{
+    padding:5px;
+    font-weight: bold;
+}
+.totalHeading{
+    text-align: right;
+    font-weight: bold;
+}
+.headings{
+    text-align: center;
+}
+.tableData{
+    padding:5px;
+}
+.price{
+    text-align: right;
+    padding:5px;
+}

@@ -1,0 +1,14 @@
+.colors{
+    padding:10px 10px 10px 0px;
+}
+.tableContent,.colors,.names{
+    border:1px solid tomato;
+    font-weight: bold;   
+}
+.col1{
+    width:5%;
+    border:1px solid tomato;
+}
+.tableContent{
+    width:20%;
+}
