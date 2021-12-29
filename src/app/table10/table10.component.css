@@ -1,0 +1,6 @@
+.headings,.tableData,.tableContent{
+    border:1px solid black;
+}
+.tableContent,.headings{
+    padding: 5px;
+}
