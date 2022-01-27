@@ -1,0 +1,20 @@
+.personName{
+    background: #DCDCDC;
+}
+.tableContent,.personName,.personAge,.tableHeading{
+    border:1px solid black;
+    width:50%;
+    padding:10px;
+}
+.tableHeading{
+    text-align: left;
+    background: #BEC0BF;
+}
+.personAge{
+    text-align: right;
+    background: #FFFFFF;
+}
+.personName,.tableHeading,.personAge{
+    font-size: 20px;
+    font-weight: bold;
+}

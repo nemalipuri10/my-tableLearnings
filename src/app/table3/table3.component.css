@@ -1,0 +1,21 @@
+.empAttributes{
+    background-color: #28A745;
+    color:white;
+    text-decoration: underline;
+}
+.tableCaption{
+    font-size: 30px;
+}
+.empData{
+    background: #17A2B8;
+    
+}
+.tableContent{
+    text-align: center;
+}
+table,td,th{
+    border:1px solid black;
+}
+.tableContent tr td, .empAttributes{
+    padding:10px;
+}

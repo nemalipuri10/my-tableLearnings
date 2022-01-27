@@ -1,0 +1,21 @@
+.tableData{
+    border:2px solid black;
+    text-align: left;
+}
+.headings{
+    border-bottom: 1px solid black;
+}
+.total{
+    font-weight: bold;
+    background: cyan;
+}
+.subtotal{
+    background: grey;
+    border-bottom: 1px solid black;
+    border-top: 2px dotted;
+}
+.headings,.subtotal,.total{
+    padding:10px;
+    margin:10px;
+    
+}
