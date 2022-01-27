@@ -1,0 +1,14 @@
+.tableHead,.species{
+    background: #EEEEEE;
+}
+.tableHead,.tableData{
+    text-align: right;
+    padding:10px;
+}
+.species,.species1{
+    text-align: left;
+    padding:5px;
+}
+.species1{
+    background: #FFFFFF;
+}

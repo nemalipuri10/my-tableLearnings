@@ -1,0 +1,22 @@
+.tableContent,.headings,.headings1,.headings2{
+    border:1px solid pink;
+}
+.headings,.headings1,.headings2{
+    color: white;
+    background-color:tomato;
+}
+.headings1{
+    text-align: right;
+}
+.headings2{
+    text-align: left;
+}
+.tableContent{
+    text-align: center;
+}
+.rowColor{
+    background-color: #E3A4E3;
+}
+.rowColor1{
+    background-color: #FD58D3;
+}
